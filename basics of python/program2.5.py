@@ -1,0 +1,5 @@
+print('Please enter the number: ')
+X = input()
+print('enter number is: ',X)
+print('Type of X is: ')
+print(type(X))

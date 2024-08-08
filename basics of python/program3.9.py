@@ -1,0 +1,8 @@
+Length = eval(input('enter the length of rectangle: '))
+Breadth = eval(input('enter the breadth of rectangle:'))
+print('-----------------------')
+print('Length = ', Length )
+print('Breadth = ', Breadth )
+print('-----------------------')
+print('Area = ', Length * Breadth)
+print('Perimeter = ', 2 * (Length + Breadth ))
